@@ -12,14 +12,16 @@ The goal was to manually configure everything from scratch without using any pre
 ##  Folder Structure
 
 Ansible-multi-env-cluster/
-├── docker-part/
-│ ├── Dockerfile
-│ └── inventory
-├── k8s-part/
-│ ├── ansible-master-pod.yaml
-│ └── ansible-node1-pod.yaml
-├── screenshots/
 
+- docker-part/
+  - Dockerfile
+  - inventory
+
+- k8s-part/
+  - ansible-master-pod.yaml
+  - ansible-node1-pod.yaml
+
+- screenshots/
 
 
 - `docker-part/` contains a custom Dockerfile to build a minimal Ansible container and an inventory file to simulate remote nodes.
