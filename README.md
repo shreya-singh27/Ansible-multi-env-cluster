@@ -52,7 +52,7 @@ Below are the actual screenshots captured during the process. These clearly demo
 
 - Created a minimal `Dockerfile` that installs Ansible on top of a clean Ubuntu base image. 
 - Added an inventory file to simulate remote target machines. 
-- Ran the Docker container interactively on an AWS EC2 instance to execute and test Ansible playbooks or ad-hoc commands.
+- Ran the Docker container interactively on an AWS EC2 instance.
 
 ###  Kubernetes-Based Ansible Cluster (on WSL + Minikube)
 
