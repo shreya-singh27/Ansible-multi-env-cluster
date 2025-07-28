@@ -25,7 +25,7 @@ Ansible-multi-env-cluster/
 
 
 - `docker-part/` contains a custom Dockerfile to build a minimal Ansible container and an inventory file to simulate remote nodes.
-- `k8s-part/` includes YAML manifests to deploy an Ansible master pod and a node pod inside a Minikube-based Kubernetes cluster.
+- `k8s-part/` includes YAML files to deploy an Ansible master pod and a node pod inside a Minikube-based Kubernetes cluster.
 - `screenshots/` holds all the visual proofs of this setup — from container runs to Kubernetes pod execution.
 
 ---
