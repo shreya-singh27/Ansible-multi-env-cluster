@@ -18,7 +18,7 @@ Ansible-multi-env-cluster/
 ├── k8s-part/
 │ ├── ansible-master-pod.yaml
 │ └── ansible-node1-pod.yaml
-└── screenshots/
+├── screenshots/
 
 
 
