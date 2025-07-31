@@ -46,7 +46,7 @@ Below are the actual screenshots captured during the process. These clearly demo
 
 ---
 
-##  What We Did
+##  What I Did
 
 ###  Docker-Based Ansible Setup (on EC2)
 
